@@ -1,0 +1,32 @@
+duorc-master
+영화 줄거리에 대한 질의 응답
+https://github.com/duorc/duorc/tree/master
+
+
+wiki_movie_plots_deduped.csv
+영화 제목 장르 줄거리 등
+https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
+
+
+25k IMDb movie Dataset.csv
+영화 제목 장르 줄거리키워드 등
+https://www.kaggle.com/datasets/utsh0dey/25k-movie-dataset
+
+
+mpst_full_data.csv
+영화 제목 장르 줄거리 등
+https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags
+
+
+text-classification-master
+영화 제목 장르 줄거리 등
+https://github.com/davidsbatista/text-classification/tree/master
+
+
+MovieSummaries
+영화 제목 장르 줄거리 등
+https://www.cs.cmu.edu/~ark/personas/
+
+archive
+영화 제목 장르 줄거리키워드 등
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=keywords.csv
